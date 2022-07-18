@@ -8,5 +8,6 @@ Cara Pakai
 5. node gojek.js
 6. Selamat Makan, Jangan Lupa Donate :) 
 
-DONEATE 
+DONEATE
+
 https://saweria.co/rivaljulians
