@@ -1,0 +1,22 @@
+{
+  "name": "gojek",
+  "version": "1.0.0",
+  "description": "Gojek By Rival Adrian Juliansyah",
+  "main": "gojek.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rival Adrian Juliansyah",
+  "license": "ISC",
+  "dependencies": {
+    "adbkit": "^2.11.1",
+    "chalk": "^4.1.2",
+    "cli-table": "^0.3.11",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "readline-sync": "^1.4.10",
+    "uuid": "^8.3.2",
+    "xmlbuilder2": "^3.0.2"
+  }
+}
